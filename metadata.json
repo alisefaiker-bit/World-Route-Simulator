@@ -1,0 +1,8 @@
+{
+  "name": "Remix: World Route Simulator",
+  "description": "A professional world route simulation platform enabling multi-modal plan calculations, 3D driving visualizers, dynamic weather, and Gemini-powered travel assistants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
